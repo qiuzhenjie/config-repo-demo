@@ -1,4 +1,4 @@
 info:
   profile: default
-  abc:123
-test:sss
+  abc: 123
+test: sss
